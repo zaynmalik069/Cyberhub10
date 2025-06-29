@@ -15,7 +15,7 @@
 | `rm -r [dir]` | Remove directory and contents                 |
 
 #file Operations
-
+| Command       | Description                                   |
 | ------------------------ | ------------------------ |
 | `touch file.txt`         | Create an empty file     |
 | `cat file.txt`           | View file contents       |
@@ -26,7 +26,7 @@
 | `vim file.txt`           | Open file in Vim editor  |
 
 # Searching and Viewing 
-
+| Command       | Description                                   |
 | ----------------------- | --------------------------- |
 | `find / -name file.txt` | Find a file from root       |
 | `grep "text" file.txt`  | Search for text inside file |
@@ -36,7 +36,7 @@
 | `wc -l file.txt`        | Count lines in file         |
 
 # system info and Management 
-
+| Command       | Description                                   |
 | ---------- | ------------------------------------- |
 | `uname -a` | System info                           |
 | `top`      | Running processes (like Task Manager) |
@@ -49,7 +49,7 @@
 | `ps aux`   | Show all running processes            |
 
 # file permission and Users
-
+| Command       | Description                                   |
 | ----------------- | ------------------------ |
 | `chmod 755 file`  | Change file permissions  |
 | `chown user file` | Change file ownership    |
@@ -59,7 +59,7 @@
 | `sudo`            | Run command as root      |
 
 # Networking 
-
+| Command       | Description                                   |
 | -------------------- | --------------------------- |
 | `ip a` or `ifconfig` | Show IP addresses           |
 | `ping google.com`    | Check network connectivity  |
